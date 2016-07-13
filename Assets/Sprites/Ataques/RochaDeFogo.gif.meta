@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 6841f1369db820d408f3614973ece104
+timeCreated: 1468372057
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RochaDeFogo_0
+    21300002: RochaDeFogo_1
+    21300004: RochaDeFogo_2
+    21300006: RochaDeFogo_3
+    21300008: RochaDeFogo_4
+    21300010: RochaDeFogo_5
+    21300012: RochaDeFogo_6
+    21300014: RochaDeFogo_7
+    21300016: RochaDeFogo_8
+    21300018: RochaDeFogo_9
+    21300020: RochaDeFogo_10
+    21300022: RochaDeFogo_11
+    21300024: RochaDeFogo_12
+    21300026: RochaDeFogo_13
+    21300028: RochaDeFogo_14
+    21300030: RochaDeFogo_15
+    21300032: RochaDeFogo_16
+    21300034: RochaDeFogo_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RochaDeFogo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 36}
+        - {x: -13, y: 35}
+        - {x: -39, y: 13}
+        - {x: -39, y: -18}
+        - {x: -30, y: -36}
+        - {x: 24, y: -36}
+        - {x: 39, y: -24}
+        - {x: 39, y: 9}
+        - {x: 21, y: 36}
+    - name: RochaDeFogo_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 120
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 43.5}
+        - {x: -34, y: 22.5}
+        - {x: -39, y: 13.5}
+        - {x: -39, y: -26.5}
+        - {x: -31, y: -43.5}
+        - {x: 39, y: -43.5}
+        - {x: 39, y: 35.5}
+        - {x: 20, y: 43.5}
+    - name: RochaDeFogo_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 47.5}
+        - {x: -6, y: 47.5}
+        - {x: -38, y: 19.5}
+        - {x: -38, y: -27.5}
+        - {x: -31, y: -47.5}
+        - {x: 19, y: -47.5}
+        - {x: 35, y: -42.5}
+        - {x: 38, y: -28.5}
+        - {x: 38, y: -0.5}
+        - {x: 37, y: 4.5}
+    - name: RochaDeFogo_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 47.5}
+        - {x: -35, y: 47.5}
+        - {x: -36, y: 39.5}
+        - {x: -36, y: -47.5}
+        - {x: 18, y: -47.5}
+        - {x: 34, y: -41.5}
+        - {x: 36, y: -30.5}
+        - {x: 36, y: 12.5}
+    - name: RochaDeFogo_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 19.5}
+        - {x: 11, y: 43.5}
+        - {x: -8, y: 43.5}
+        - {x: -25, y: 33.5}
+        - {x: -36, y: 10.5}
+        - {x: -36, y: -38.5}
+        - {x: -25, y: -43.5}
+        - {x: 30, y: -43.5}
+        - {x: 31, y: -42.5}
+        - {x: 36, y: -30.5}
+        - {x: 36, y: 7.5}
+    - name: RochaDeFogo_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 120
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 54.5}
+        - {x: -34, y: 26.5}
+        - {x: -34, y: -54.5}
+        - {x: 21, y: -54.5}
+        - {x: 34, y: -49.5}
+        - {x: 34, y: 5.5}
+        - {x: 4, y: 54.5}
+    - name: RochaDeFogo_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 120
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36}
+        - {x: -37, y: 7}
+        - {x: -37, y: -24}
+        - {x: -25, y: -36}
+        - {x: 27, y: -36}
+        - {x: 37, y: -26}
+        - {x: 37, y: 10}
+        - {x: 26, y: 36}
+    - name: RochaDeFogo_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 120
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 47.5}
+        - {x: -36, y: 36.5}
+        - {x: -36, y: -47.5}
+        - {x: 25, y: -47.5}
+        - {x: 35, y: -44.5}
+        - {x: 36, y: -39.5}
+        - {x: 36, y: 3.5}
+        - {x: 11, y: 47.5}
+    - name: RochaDeFogo_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 120
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 43.5}
+        - {x: -10, y: 43.5}
+        - {x: -33, y: 19.5}
+        - {x: -38, y: -1.5}
+        - {x: -38, y: -31.5}
+        - {x: -29, y: -41.5}
+        - {x: -24, y: -43.5}
+        - {x: 29, y: -43.5}
+        - {x: 38, y: -33.5}
+        - {x: 38, y: 16.5}
+        - {x: 35, y: 22.5}
+    - name: RochaDeFogo_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 36}
+        - {x: -39, y: 21}
+        - {x: -39, y: -30}
+        - {x: -23, y: -36}
+        - {x: 29, y: -36}
+        - {x: 39, y: -21}
+        - {x: 39, y: 18}
+        - {x: 30, y: 36}
+    - name: RochaDeFogo_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 32
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 43.5}
+        - {x: -39, y: -19.5}
+        - {x: -13, y: -43.5}
+        - {x: 6, y: -43.5}
+        - {x: 37, y: -24.5}
+        - {x: 39, y: -17.5}
+        - {x: 39, y: 43.5}
+    - name: RochaDeFogo_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 47.5}
+        - {x: -38, y: 46.5}
+        - {x: -38, y: -4.5}
+        - {x: -13, y: -47.5}
+        - {x: 6, y: -47.5}
+        - {x: 38, y: -8.5}
+        - {x: 38, y: 36.5}
+        - {x: 35, y: 47.5}
+    - name: RochaDeFogo_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 47.5}
+        - {x: -36, y: 32.5}
+        - {x: -36, y: -18.5}
+        - {x: -18, y: -47.5}
+        - {x: 8, y: -47.5}
+        - {x: 36, y: -18.5}
+        - {x: 36, y: 47.5}
+    - name: RochaDeFogo_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 43.5}
+        - {x: -36, y: 41.5}
+        - {x: -36, y: -14.5}
+        - {x: -9, y: -43.5}
+        - {x: 7, y: -43.5}
+        - {x: 36, y: -12.5}
+        - {x: 36, y: 35.5}
+        - {x: 30, y: 43.5}
+    - name: RochaDeFogo_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 54.5}
+        - {x: -34, y: 48.5}
+        - {x: -34, y: -6.5}
+        - {x: -9, y: -54.5}
+        - {x: 17, y: -54.5}
+        - {x: 34, y: -9.5}
+        - {x: 34, y: 53.5}
+        - {x: 32, y: 54.5}
+    - name: RochaDeFogo_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 47
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 36}
+        - {x: -37, y: 23}
+        - {x: -37, y: -5}
+        - {x: -25, y: -36}
+        - {x: 25, y: -36}
+        - {x: 37, y: -12}
+        - {x: 37, y: 28}
+        - {x: 27, y: 36}
+    - name: RochaDeFogo_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 24
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -7.5}
+        - {x: -17, y: -47.5}
+        - {x: 7, y: -47.5}
+        - {x: 36, y: -16.5}
+        - {x: 36, y: 35.5}
+        - {x: 30, y: 47.5}
+        - {x: -28, y: 47.5}
+        - {x: -36, y: 39.5}
+    - name: RochaDeFogo_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 32
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 43.5}
+        - {x: -38, y: 38.5}
+        - {x: -38, y: -22.5}
+        - {x: -12, y: -43.5}
+        - {x: 25, y: -43.5}
+        - {x: 38, y: -19.5}
+        - {x: 38, y: 33.5}
+        - {x: 28, y: 43.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

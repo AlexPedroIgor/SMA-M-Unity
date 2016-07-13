@@ -1,0 +1,3768 @@
+fileFormatVersion: 2
+guid: cbaf5865207c426439c224c9d9b2e765
+timeCreated: 1468371272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer w_0
+    21300002: Archer w_1
+    21300004: Archer w_2
+    21300006: Archer w_3
+    21300008: Archer w_4
+    21300010: Archer w_5
+    21300012: Archer w_6
+    21300014: Archer w_7
+    21300016: Archer w_8
+    21300018: Archer w_9
+    21300020: Archer w_10
+    21300022: Archer w_11
+    21300024: Archer w_12
+    21300026: Archer w_13
+    21300028: Archer w_14
+    21300030: Archer w_15
+    21300032: Archer w_16
+    21300034: Archer w_17
+    21300036: Archer w_18
+    21300038: Archer w_19
+    21300040: Archer w_20
+    21300042: Archer w_21
+    21300044: Archer w_22
+    21300046: Archer w_23
+    21300048: Archer w_24
+    21300050: Archer w_25
+    21300052: Archer w_26
+    21300054: Archer w_27
+    21300056: Archer w_28
+    21300058: Archer w_29
+    21300060: Archer w_30
+    21300062: Archer w_31
+    21300064: Archer w_32
+    21300066: Archer w_33
+    21300068: Archer w_34
+    21300070: Archer w_35
+    21300072: Archer w_36
+    21300074: Archer w_37
+    21300076: Archer w_38
+    21300078: Archer w_39
+    21300080: Archer w_40
+    21300082: Archer w_41
+    21300084: Archer w_42
+    21300086: Archer w_43
+    21300088: Archer w_44
+    21300090: Archer w_45
+    21300092: Archer w_46
+    21300094: Archer w_47
+    21300096: Archer w_48
+    21300098: Archer w_49
+    21300100: Archer w_50
+    21300102: Archer w_51
+    21300104: Archer w_52
+    21300106: Archer w_53
+    21300108: Archer w_54
+    21300110: Archer w_55
+    21300112: Archer w_56
+    21300114: Archer w_57
+    21300116: Archer w_58
+    21300118: Archer w_59
+    21300120: Archer w_60
+    21300122: Archer w_61
+    21300124: Archer w_62
+    21300126: Archer w_63
+    21300128: Archer w_64
+    21300130: Archer w_65
+    21300132: Archer w_66
+    21300134: Archer w_67
+    21300136: Archer w_68
+    21300138: Archer w_69
+    21300140: Archer w_70
+    21300142: Archer w_71
+    21300144: Archer w_72
+    21300146: Archer w_73
+    21300148: Archer w_74
+    21300150: Archer w_75
+    21300152: Archer w_76
+    21300154: Archer w_77
+    21300156: Archer w_78
+    21300158: Archer w_79
+    21300160: Archer w_80
+    21300162: Archer w_81
+    21300164: Archer w_82
+    21300166: Archer w_83
+    21300168: Archer w_84
+    21300170: Archer w_85
+    21300172: Archer w_86
+    21300174: Archer w_87
+    21300176: Archer w_88
+    21300178: Archer w_89
+    21300180: Archer w_90
+    21300182: Archer w_91
+    21300184: Archer w_92
+    21300186: Archer w_93
+    21300188: Archer w_94
+    21300190: Archer w_95
+    21300192: Archer w_96
+    21300194: Archer w_97
+    21300196: Archer w_98
+    21300198: Archer w_99
+    21300200: Archer w_100
+    21300202: Archer w_101
+    21300204: Archer w_102
+    21300206: Archer w_103
+    21300208: Archer w_104
+    21300210: Archer w_105
+    21300212: Archer w_106
+    21300214: Archer w_107
+    21300216: Archer w_108
+    21300218: Archer w_109
+    21300220: Archer w_110
+    21300222: Archer w_111
+    21300224: Archer w_112
+    21300226: Archer w_113
+    21300228: Archer w_114
+    21300230: Archer w_115
+    21300232: Archer w_116
+    21300234: Archer w_117
+    21300236: Archer w_118
+    21300238: Archer w_119
+    21300240: Archer w_120
+    21300242: Archer w_121
+    21300244: Archer w_122
+    21300246: Archer w_123
+    21300248: Archer w_124
+    21300250: Archer w_125
+    21300252: Archer w_126
+    21300254: Archer w_127
+    21300256: Archer w_128
+    21300258: Archer w_129
+    21300260: Archer w_130
+    21300262: Archer w_131
+    21300264: Archer w_132
+    21300266: Archer w_133
+    21300268: Archer w_134
+    21300270: Archer w_135
+    21300272: Archer w_136
+    21300274: Archer w_137
+    21300276: Archer w_138
+    21300278: Archer w_139
+    21300280: Archer w_140
+    21300282: Archer w_141
+    21300284: Archer w_142
+    21300286: Archer w_143
+    21300288: Archer w_144
+    21300290: Archer w_145
+    21300292: Archer w_146
+    21300294: Archer w_147
+    21300296: Archer w_148
+    21300298: Archer w_149
+    21300300: Archer w_150
+    21300302: Archer w_151
+    21300304: Archer w_152
+    21300306: Archer w_153
+    21300308: Archer w_154
+    21300310: Archer w_155
+    21300312: Archer w_156
+    21300314: Archer w_157
+    21300316: Archer w_158
+    21300318: Archer w_159
+    21300320: Archer w_160
+    21300322: Archer w_161
+    21300324: Archer w_162
+    21300326: Archer w_163
+    21300328: Archer w_164
+    21300330: Archer w_165
+    21300332: Archer w_166
+    21300334: Archer w_167
+    21300336: Archer w_168
+    21300338: Archer w_169
+    21300340: Archer w_170
+    21300342: Archer w_171
+    21300344: Archer w_172
+    21300346: Archer w_173
+    21300348: Archer w_174
+    21300350: Archer w_175
+    21300352: Archer w_176
+    21300354: Archer w_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Archer w_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -8, y: 18}
+        - {x: -16, y: 9}
+        - {x: -19, y: -12}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 11}
+        - {x: 10, y: 19}
+    - name: Archer w_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -19, y: 3}
+        - {x: -19, y: -27}
+        - {x: -18, y: -28}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 19}
+    - name: Archer w_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -8, y: 17}
+        - {x: -16, y: 9}
+        - {x: -19, y: -15}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 11}
+        - {x: 8, y: 19}
+    - name: Archer w_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 12}
+        - {x: 9, y: 19}
+    - name: Archer w_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -24, y: 11}
+        - {x: -24, y: -29}
+        - {x: -23, y: -32}
+        - {x: 14, y: -32}
+        - {x: 24, y: -15}
+        - {x: 24, y: 4}
+        - {x: 13, y: 19}
+    - name: Archer w_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -24, y: 12}
+        - {x: -24, y: -7}
+        - {x: -19, y: -23}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -29}
+        - {x: 24, y: -10}
+        - {x: 24, y: 8}
+        - {x: 13, y: 19}
+    - name: Archer w_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 12}
+        - {x: 9, y: 19}
+    - name: Archer w_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -7, y: 20}
+        - {x: -19, y: 3}
+        - {x: -19, y: -20}
+        - {x: -14, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -25}
+        - {x: 14, y: 17}
+    - name: Archer w_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -19, y: 2}
+        - {x: -19, y: -24}
+        - {x: -17, y: -32}
+        - {x: 7, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 10}
+        - {x: 9, y: 20}
+    - name: Archer w_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -19, y: 1}
+        - {x: -19, y: -20}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -22}
+        - {x: 14, y: 14}
+        - {x: 10, y: 20}
+    - name: Archer w_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 9}
+        - {x: -19, y: -8}
+        - {x: -19, y: -15}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 17}
+        - {x: 8, y: 20}
+    - name: Archer w_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: 5, y: 20}
+        - {x: -6, y: 20}
+        - {x: -15, y: 9}
+        - {x: -19, y: -10}
+        - {x: -19, y: -13}
+        - {x: -10, y: -31}
+        - {x: -5, y: -32}
+        - {x: 8, y: -32}
+        - {x: 15, y: -24}
+        - {x: 20, y: -9}
+        - {x: 20, y: 6}
+    - name: Archer w_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -8, y: 20}
+        - {x: -19, y: 10}
+        - {x: -19, y: -16}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 15, y: -25}
+        - {x: 20, y: -5}
+        - {x: 20, y: 14}
+    - name: Archer w_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 9}
+        - {x: -19, y: -8}
+        - {x: -19, y: -15}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 17}
+        - {x: 8, y: 20}
+    - name: Archer w_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 18, y: -32}
+        - {x: 20, y: -31}
+        - {x: 21, y: -28}
+        - {x: 21, y: 19}
+    - name: Archer w_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -7, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -18}
+        - {x: 21, y: -1}
+        - {x: 19, y: 10}
+    - name: Archer w_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -27}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -18}
+        - {x: 21, y: 1}
+        - {x: 13, y: 20}
+    - name: Archer w_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -18, y: 14}
+        - {x: -18, y: -21}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 0}
+        - {x: 13, y: 20}
+    - name: Archer w_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -13, y: 20}
+        - {x: -24, y: 9}
+        - {x: -24, y: -9}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 24, y: -11}
+        - {x: 24, y: 2}
+        - {x: 15, y: 17}
+    - name: Archer w_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -24, y: 16}
+        - {x: -24, y: -11}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 24, y: -11}
+        - {x: 24, y: 16}
+        - {x: 16, y: 20}
+    - name: Archer w_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -18, y: 14}
+        - {x: -18, y: -21}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -22}
+        - {x: 21, y: 0}
+        - {x: 13, y: 20}
+    - name: Archer w_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 10, y: -31}
+        - {x: 19, y: -23}
+        - {x: 19, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -22}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 19, y: -23}
+        - {x: 19, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: -31}
+        - {x: -12, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 19, y: -23}
+        - {x: 19, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -10, y: 20}
+        - {x: -15, y: 15}
+        - {x: -15, y: -28}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -15}
+        - {x: 19, y: -7}
+        - {x: 14, y: 18}
+    - name: Archer w_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -7, y: 20}
+        - {x: -20, y: 10}
+        - {x: -20, y: -18}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -16}
+        - {x: 19, y: -5}
+        - {x: 16, y: 10}
+    - name: Archer w_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -20, y: 6}
+        - {x: -20, y: -13}
+        - {x: -8, y: -32}
+        - {x: 16, y: -32}
+        - {x: 19, y: -18}
+        - {x: 19, y: 11}
+        - {x: 8, y: 20}
+    - name: Archer w_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -10, y: 20}
+        - {x: -15, y: 15}
+        - {x: -15, y: -28}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -15}
+        - {x: 19, y: -7}
+        - {x: 14, y: 18}
+    - name: Archer w_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -18, y: 13}
+        - {x: -18, y: -25}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 13}
+        - {x: 13, y: 18}
+    - name: Archer w_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -17, y: 13}
+        - {x: -17, y: -27}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 11}
+        - {x: 12, y: 18}
+    - name: Archer w_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -10, y: 19}
+        - {x: -17, y: 4}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -17}
+        - {x: 17, y: 18}
+    - name: Archer w_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -17, y: 3}
+        - {x: -17, y: -29}
+        - {x: -15, y: -30}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -6}
+        - {x: 17, y: 19}
+    - name: Archer w_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -16, y: 9}
+        - {x: -17, y: 2}
+        - {x: -17, y: -24}
+        - {x: -10, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 18, y: -20}
+        - {x: 18, y: 13}
+        - {x: 15, y: 18}
+    - name: Archer w_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -14, y: 8}
+        - {x: -17, y: -12}
+        - {x: -17, y: -23}
+        - {x: -5, y: -32}
+        - {x: 14, y: -32}
+        - {x: 18, y: -5}
+        - {x: 18, y: 16}
+        - {x: 11, y: 18}
+    - name: Archer w_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -16, y: 9}
+        - {x: -17, y: 2}
+        - {x: -17, y: -24}
+        - {x: -10, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 18, y: -20}
+        - {x: 18, y: 13}
+        - {x: 15, y: 18}
+    - name: Archer w_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -17, y: 3}
+        - {x: -17, y: -28}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -6}
+        - {x: 17, y: 17}
+        - {x: 14, y: 19}
+    - name: Archer w_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: -3}
+        - {x: -19, y: -20}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 13}
+        - {x: 6, y: 20}
+    - name: Archer w_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -19, y: -3}
+        - {x: -19, y: -19}
+        - {x: -10, y: -30}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -15}
+        - {x: 14, y: 6}
+        - {x: 13, y: 12}
+    - name: Archer w_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: 5, y: 20}
+        - {x: -10, y: 20}
+        - {x: -19, y: -2}
+        - {x: -19, y: -21}
+        - {x: -12, y: -30}
+        - {x: -5, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -29}
+        - {x: 16, y: -18}
+        - {x: 16, y: -3}
+    - name: Archer w_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: -3}
+        - {x: -19, y: -19}
+        - {x: -9, y: -30}
+        - {x: -3, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 7}
+        - {x: 10, y: 20}
+    - name: Archer w_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -21, y: 15}
+        - {x: -21, y: -16}
+        - {x: -15, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 19}
+        - {x: 11, y: 20}
+    - name: Archer w_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -22, y: 16}
+        - {x: -22, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 10}
+        - {x: 7, y: 20}
+    - name: Archer w_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -14, y: 20}
+        - {x: -21, y: 3}
+        - {x: -21, y: -21}
+        - {x: -11, y: -31}
+        - {x: -5, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -28}
+        - {x: 12, y: 13}
+    - name: Archer w_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -19, y: -3}
+        - {x: -19, y: -19}
+        - {x: -9, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 2}
+        - {x: 13, y: 12}
+    - name: Archer w_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 19, y: -32}
+        - {x: 21, y: -31}
+        - {x: 21, y: 12}
+        - {x: 15, y: 17}
+    - name: Archer w_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 9}
+        - {x: 11, y: 20}
+        - {x: -9, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 20, y: -12}
+        - {x: 20, y: -4}
+    - name: Archer w_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -18}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 20, y: -19}
+        - {x: 20, y: 14}
+        - {x: 10, y: 20}
+    - name: Archer w_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -7, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -23}
+        - {x: -15, y: -29}
+        - {x: -8, y: -31}
+        - {x: 14, y: -31}
+        - {x: 20, y: -19}
+        - {x: 20, y: -1}
+        - {x: 17, y: 9}
+    - name: Archer w_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: -13, y: -29}
+        - {x: -5, y: -31}
+        - {x: 13, y: -31}
+        - {x: 20, y: -19}
+        - {x: 20, y: -2}
+        - {x: 17, y: 8}
+    - name: Archer w_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -9, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -17}
+        - {x: -13, y: -28}
+        - {x: 1, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -25}
+        - {x: 20, y: -18}
+        - {x: 20, y: 4}
+    - name: Archer w_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: -13, y: -29}
+        - {x: -5, y: -31}
+        - {x: 13, y: -31}
+        - {x: 20, y: -19}
+        - {x: 20, y: -2}
+        - {x: 17, y: 8}
+    - name: Archer w_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -7, y: 20}
+        - {x: -16, y: 11}
+        - {x: -16, y: -25}
+        - {x: -8, y: -31}
+        - {x: 14, y: -31}
+        - {x: 20, y: -19}
+        - {x: 20, y: 1}
+        - {x: 19, y: 5}
+    - name: Archer w_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 9}
+        - {x: 12, y: 17}
+        - {x: 4, y: 20}
+        - {x: -11, y: 20}
+        - {x: -14, y: 16}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -13}
+        - {x: 19, y: -11}
+        - {x: 16, y: -5}
+    - name: Archer w_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -23}
+        - {x: 19, y: 6}
+        - {x: 16, y: 20}
+    - name: Archer w_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -21}
+        - {x: -11, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -31}
+        - {x: 19, y: -19}
+        - {x: 19, y: 11}
+        - {x: 10, y: 20}
+    - name: Archer w_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -16, y: 15}
+        - {x: -17, y: 11}
+        - {x: -17, y: -18}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -23}
+        - {x: 19, y: 3}
+        - {x: 11, y: 20}
+    - name: Archer w_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -30}
+        - {x: 21, y: -21}
+        - {x: 21, y: 5}
+        - {x: 13, y: 20}
+    - name: Archer w_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 17}
+        - {x: 7, y: 20}
+        - {x: -8, y: 20}
+        - {x: -12, y: 15}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -31}
+        - {x: 22, y: -17}
+        - {x: 22, y: -6}
+    - name: Archer w_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -7, y: 20}
+        - {x: -12, y: 10}
+        - {x: -12, y: -30}
+        - {x: -7, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: 16}
+    - name: Archer w_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -10, y: 20}
+        - {x: -17, y: 8}
+        - {x: -17, y: -29}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -29}
+        - {x: 19, y: -23}
+        - {x: 19, y: 5}
+    - name: Archer w_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -19, y: 12}
+        - {x: -19, y: -24}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 13}
+        - {x: 13, y: 19}
+    - name: Archer w_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -8, y: 17}
+        - {x: -16, y: 9}
+        - {x: -19, y: -12}
+        - {x: -19, y: -25}
+        - {x: -13, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 10}
+        - {x: 9, y: 19}
+    - name: Archer w_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19}
+        - {x: -19, y: 18}
+        - {x: -19, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 11, y: 19}
+    - name: Archer w_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -7, y: 18}
+        - {x: -19, y: 13}
+        - {x: -19, y: -29}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 8}
+        - {x: 13, y: 12}
+    - name: Archer w_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -19, y: 12}
+        - {x: -19, y: -25}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 12}
+        - {x: 13, y: 19}
+    - name: Archer w_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -8, y: 18}
+        - {x: -16, y: 9}
+        - {x: -19, y: -11}
+        - {x: -19, y: -26}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 11}
+        - {x: 10, y: 19}
+    - name: Archer w_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -19, y: 12}
+        - {x: -19, y: -28}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 15}
+        - {x: 14, y: 19}
+    - name: Archer w_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 18}
+        - {x: -8, y: 18}
+        - {x: -17, y: 9}
+        - {x: -19, y: 1}
+        - {x: -19, y: -29}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 11}
+        - {x: 11, y: 17}
+    - name: Archer w_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -16, y: 9}
+        - {x: -19, y: -11}
+        - {x: -19, y: -25}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 12, y: -30}
+        - {x: 16, y: -24}
+        - {x: 16, y: 18}
+        - {x: 12, y: 19}
+    - name: Archer w_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -2, y: 20}
+        - {x: -7, y: 19}
+        - {x: -15, y: 9}
+        - {x: -19, y: 1}
+        - {x: -19, y: -17}
+        - {x: -14, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -25}
+        - {x: 14, y: -23}
+        - {x: 14, y: 13}
+    - name: Archer w_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -9, y: 19}
+        - {x: -19, y: -3}
+        - {x: -19, y: -22}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -29}
+        - {x: 14, y: -23}
+        - {x: 14, y: 16}
+    - name: Archer w_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 19}
+        - {x: -7, y: 17}
+        - {x: -10, y: 13}
+        - {x: -19, y: -1}
+        - {x: -19, y: -15}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -30}
+        - {x: 14, y: -25}
+        - {x: 14, y: 9}
+        - {x: 9, y: 19}
+    - name: Archer w_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -19, y: 13}
+        - {x: -19, y: -31}
+        - {x: 6, y: -31}
+        - {x: 14, y: -20}
+        - {x: 14, y: 12}
+        - {x: 10, y: 20}
+    - name: Archer w_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -7, y: 19}
+        - {x: -14, y: 9}
+        - {x: -13, y: 5}
+        - {x: -18, y: -7}
+        - {x: -19, y: -12}
+        - {x: -9, y: -32}
+        - {x: 2, y: -32}
+        - {x: 11, y: -30}
+        - {x: 16, y: -26}
+        - {x: 16, y: 4}
+        - {x: 10, y: 20}
+    - name: Archer w_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 14}
+        - {x: -19, y: -23}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 8, y: 19}
+        - {x: -2, y: 19}
+        - {x: -8, y: 18}
+    - name: Archer w_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 15}
+        - {x: 7, y: 19}
+        - {x: -7, y: 19}
+        - {x: -15, y: 8}
+        - {x: -19, y: -5}
+        - {x: -19, y: -16}
+        - {x: -6, y: -32}
+        - {x: 2, y: -32}
+        - {x: 10, y: -29}
+        - {x: 15, y: -26}
+        - {x: 16, y: -18}
+    - name: Archer w_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: 0}
+        - {x: -19, y: -13}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 20}
+    - name: Archer w_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -8, y: 19}
+        - {x: -14, y: 9}
+        - {x: -19, y: 0}
+        - {x: -19, y: -17}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 10}
+        - {x: 9, y: 20}
+    - name: Archer w_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 18, y: -32}
+        - {x: 20, y: -31}
+        - {x: 21, y: -28}
+        - {x: 21, y: 19}
+    - name: Archer w_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 20}
+        - {x: -8, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -24}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: -1}
+        - {x: 19, y: 10}
+    - name: Archer w_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -29}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 14}
+        - {x: 10, y: 20}
+    - name: Archer w_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 9}
+        - {x: -16, y: -26}
+        - {x: -5, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -28}
+        - {x: 21, y: 6}
+        - {x: 15, y: 19}
+    - name: Archer w_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -8, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -28}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: -2}
+        - {x: 17, y: 9}
+    - name: Archer w_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -27}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -28}
+        - {x: 21, y: -19}
+        - {x: 21, y: 16}
+    - name: Archer w_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: -23}
+        - {x: -12, y: -32}
+        - {x: 18, y: -32}
+        - {x: 21, y: -24}
+        - {x: 21, y: 20}
+    - name: Archer w_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: -12, y: -32}
+        - {x: 7, y: -32}
+        - {x: 21, y: -25}
+        - {x: 21, y: 15}
+        - {x: 11, y: 19}
+    - name: Archer w_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -10, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -26}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -17}
+        - {x: 21, y: -7}
+        - {x: 16, y: 18}
+    - name: Archer w_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 10, y: -31}
+        - {x: 19, y: -23}
+        - {x: 19, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -9, y: 19}
+        - {x: -14, y: 9}
+        - {x: -14, y: -25}
+        - {x: -13, y: -29}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -21}
+        - {x: 19, y: -1}
+        - {x: 16, y: 8}
+    - name: Archer w_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: 4, y: 19}
+        - {x: -11, y: 19}
+        - {x: -14, y: 14}
+        - {x: -14, y: -22}
+        - {x: -11, y: -31}
+        - {x: 11, y: -31}
+        - {x: 13, y: -30}
+        - {x: 19, y: -15}
+        - {x: 19, y: -9}
+        - {x: 17, y: -2}
+    - name: Archer w_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -14, y: 9}
+        - {x: -14, y: -27}
+        - {x: -8, y: -31}
+        - {x: 11, y: -31}
+        - {x: 19, y: -24}
+        - {x: 19, y: 5}
+        - {x: 11, y: 20}
+    - name: Archer w_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -12, y: 20}
+        - {x: -16, y: 6}
+        - {x: -16, y: -25}
+        - {x: -9, y: -31}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 19, y: -20}
+        - {x: 19, y: 1}
+        - {x: 14, y: 18}
+    - name: Archer w_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -17, y: 3}
+        - {x: -17, y: -25}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 4}
+        - {x: 12, y: 19}
+    - name: Archer w_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 19, y: -15}
+        - {x: 19, y: -7}
+        - {x: 14, y: 17}
+    - name: Archer w_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -6, y: 20}
+        - {x: -13, y: 12}
+        - {x: -14, y: 5}
+        - {x: -14, y: -26}
+        - {x: -12, y: -30}
+        - {x: -4, y: -32}
+        - {x: 7, y: -32}
+        - {x: 19, y: -14}
+        - {x: 19, y: -7}
+        - {x: 16, y: 9}
+    - name: Archer w_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 11}
+        - {x: -14, y: -24}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 5}
+        - {x: 11, y: 20}
+    - name: Archer w_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -8, y: 18}
+        - {x: -16, y: 9}
+        - {x: -19, y: -12}
+        - {x: -19, y: -26}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 11}
+        - {x: 10, y: 19}
+    - name: Archer w_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -19, y: 10}
+        - {x: -19, y: -24}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 16}
+        - {x: 13, y: 19}
+    - name: Archer w_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: 8, y: 19}
+        - {x: -10, y: 19}
+        - {x: -18, y: 9}
+        - {x: -19, y: 2}
+        - {x: -19, y: -26}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -29}
+        - {x: 14, y: -20}
+    - name: Archer w_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -18, y: 1}
+        - {x: -18, y: -30}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 11}
+        - {x: 11, y: 20}
+    - name: Archer w_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -7, y: 20}
+        - {x: -15, y: 10}
+        - {x: -18, y: -13}
+        - {x: -18, y: -25}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 19, y: -27}
+        - {x: 23, y: -9}
+        - {x: 23, y: 9}
+        - {x: 18, y: 17}
+    - name: Archer w_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -18, y: 16}
+        - {x: -18, y: -25}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 23, y: -29}
+        - {x: 26, y: -20}
+        - {x: 26, y: 1}
+        - {x: 15, y: 20}
+    - name: Archer w_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -19, y: 2}
+        - {x: -19, y: -23}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 20}
+    - name: Archer w_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -21, y: -2}
+        - {x: -21, y: -25}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 17}
+        - {x: 11, y: 18}
+    - name: Archer w_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 8}
+        - {x: -21, y: -2}
+        - {x: -21, y: -14}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -23}
+        - {x: 14, y: 15}
+        - {x: 6, y: 19}
+    - name: Archer w_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -22, y: 6}
+        - {x: -22, y: -18}
+        - {x: -11, y: -31}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -27}
+        - {x: 14, y: 7}
+        - {x: 9, y: 20}
+    - name: Archer w_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -23, y: 4}
+        - {x: -23, y: -12}
+        - {x: -11, y: -31}
+        - {x: -6, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 6}
+        - {x: 8, y: 20}
+    - name: Archer w_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -16, y: 20}
+        - {x: -23, y: 4}
+        - {x: -23, y: -22}
+        - {x: -15, y: -31}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -22}
+        - {x: 14, y: -6}
+        - {x: 11, y: 12}
+    - name: Archer w_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 16}
+        - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 22, y: -17}
+        - {x: 22, y: 1}
+        - {x: 12, y: 20}
+    - name: Archer w_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -16, y: 8}
+        - {x: -16, y: -22}
+        - {x: -15, y: -25}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 22, y: -22}
+        - {x: 22, y: -1}
+        - {x: 12, y: 18}
+    - name: Archer w_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 14, y: -29}
+        - {x: 21, y: -22}
+        - {x: 21, y: -1}
+        - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -17, y: 8}
+        - {x: -17, y: -28}
+        - {x: -8, y: -32}
+        - {x: 0, y: -32}
+        - {x: 1, y: -28}
+        - {x: 1, y: -26}
+        - {x: 1, y: -28}
+    - name: Archer w_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -31}
+        - {x: 9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 24, y: -21}
+        - {x: 24, y: 12}
+        - {x: 15, y: 20}
+        - {x: -6, y: 20}
+        - {x: -15, y: 15}
+        - {x: -15, y: -23}
+        - {x: -14, y: -31}
+        - {x: -10, y: -32}
+        - {x: -1, y: -32}
+        - {x: 1, y: -28}
+        - {x: 1, y: -26}
+        - {x: 1, y: -28}
+    - name: Archer w_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -31}
+        - {x: 7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 25, y: -16}
+        - {x: 25, y: 14}
+        - {x: 13, y: 20}
+        - {x: -10, y: 20}
+        - {x: -14, y: 12}
+        - {x: -14, y: -26}
+        - {x: -13, y: -31}
+        - {x: -8, y: -32}
+        - {x: -1, y: -32}
+        - {x: 1, y: -28}
+        - {x: 1, y: -26}
+        - {x: 1, y: -28}
+    - name: Archer w_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -31}
+        - {x: 11, y: -32}
+        - {x: 25, y: -18}
+        - {x: 25, y: 0}
+        - {x: 22, y: 11}
+        - {x: 16, y: 20}
+        - {x: -7, y: 20}
+        - {x: -14, y: 16}
+        - {x: -14, y: -32}
+        - {x: -1, y: -32}
+        - {x: 1, y: -28}
+        - {x: 1, y: -26}
+        - {x: 1, y: -28}
+    - name: Archer w_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -14, y: -29}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 19, y: -24}
+        - {x: 19, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -6, y: 18}
+        - {x: -13, y: 14}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -23}
+        - {x: 21, y: 8}
+    - name: Archer w_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -4, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -22}
+        - {x: -9, y: -28}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -16}
+        - {x: 21, y: -8}
+        - {x: 18, y: 8}
+    - name: Archer w_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -11, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -26}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -17}
+        - {x: 22, y: 1}
+        - {x: 16, y: 18}
+    - name: Archer w_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -14, y: 20}
+        - {x: -14, y: -32}
+        - {x: 18, y: -32}
+        - {x: 23, y: -21}
+        - {x: 23, y: 11}
+        - {x: 16, y: 18}
+    - name: Archer w_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 7}
+        - {x: -14, y: -26}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 23, y: -19}
+        - {x: 23, y: 3}
+        - {x: 18, y: 20}
+    - name: Archer w_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 3}
+        - {x: -26, y: -12}
+        - {x: -19, y: -29}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 21, y: -28}
+        - {x: 21, y: 7}
+        - {x: 20, y: 10}
+        - {x: 11, y: 19}
+        - {x: -7, y: 19}
+        - {x: -9, y: 18}
+    - name: Archer w_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 11}
+        - {x: -23, y: -25}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 20, y: -29}
+        - {x: 20, y: -4}
+        - {x: 14, y: 15}
+        - {x: 9, y: 19}
+        - {x: -8, y: 19}
+        - {x: -22, y: 15}
+    - name: Archer w_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19}
+        - {x: -20, y: 19}
+        - {x: -20, y: -28}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 22, y: -24}
+        - {x: 22, y: -3}
+        - {x: 18, y: 17}
+    - name: Archer w_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -19, y: 23}
+        - {x: -19, y: -25}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 16}
+        - {x: 7, y: 26}
+    - name: Archer w_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28}
+        - {x: -19, y: 9}
+        - {x: -19, y: -25}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -28}
+        - {x: 17, y: 22}
+        - {x: 5, y: 28}
+    - name: Archer w_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 29}
+        - {x: -10, y: 29}
+        - {x: -19, y: 23}
+        - {x: -19, y: -27}
+        - {x: -17, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -27}
+        - {x: 15, y: -18}
+        - {x: 15, y: 13}
+    - name: Archer w_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 29}
+        - {x: -19, y: 23}
+        - {x: -19, y: -30}
+        - {x: -18, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -8}
+        - {x: 16, y: 13}
+        - {x: 4, y: 29}
+    - name: Archer w_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -19, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -14}
+        - {x: 17, y: 18}
+        - {x: 2, y: 28}
+    - name: Archer w_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 26}
+        - {x: -9, y: 26}
+        - {x: -19, y: 11}
+        - {x: -19, y: -25}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 18, y: -15}
+        - {x: 18, y: 3}
+        - {x: 12, y: 21}
+    - name: Archer w_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 29}
+        - {x: -18, y: 9}
+        - {x: -19, y: 1}
+        - {x: -19, y: -25}
+        - {x: -10, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 29}
+    - name: Archer w_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 29}
+        - {x: -11, y: 29}
+        - {x: -19, y: 15}
+        - {x: -19, y: -26}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -14}
+        - {x: 15, y: 12}
+        - {x: 13, y: 22}
+    - name: Archer w_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29}
+        - {x: -19, y: 20}
+        - {x: -19, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 11}
+        - {x: 3, y: 29}
+    - name: Archer w_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 29}
+        - {x: -11, y: 29}
+        - {x: -19, y: 15}
+        - {x: -19, y: -26}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -14}
+        - {x: 15, y: 12}
+        - {x: 13, y: 22}
+    - name: Archer w_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -7, y: 19}
+        - {x: -32, y: 5}
+        - {x: -32, y: -8}
+        - {x: -16, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 5}
+        - {x: 12, y: 20}
+    - name: Archer w_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -23, y: 15}
+        - {x: -24, y: 12}
+        - {x: -24, y: -9}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -26}
+        - {x: 19, y: 6}
+        - {x: 11, y: 20}
+    - name: Archer w_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -24, y: 16}
+        - {x: -27, y: 9}
+        - {x: -27, y: -18}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+        - {x: 6, y: 20}
+    - name: Archer w_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -11, y: 18}
+        - {x: -25, y: 7}
+        - {x: -25, y: -27}
+        - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -17}
+        - {x: 17, y: 13}
+    - name: Archer w_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -29, y: 2}
+        - {x: -29, y: -17}
+        - {x: -25, y: -22}
+        - {x: -8, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 13}
+        - {x: 9, y: 24}
+    - name: Archer w_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -10}
+        - {x: -29, y: -19}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 12}
+        - {x: 11, y: 26}
+        - {x: -14, y: 26}
+        - {x: -32, y: 10}
+    - name: Archer w_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -32, y: 10}
+        - {x: -32, y: -4}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 16}
+        - {x: 0, y: 28}
+    - name: Archer w_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 27}
+        - {x: -27, y: 15}
+        - {x: -30, y: 11}
+        - {x: -30, y: -5}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 18, y: -28}
+        - {x: 18, y: 13}
+        - {x: 6, y: 27}
+    - name: Archer w_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -27, y: 6}
+        - {x: -27, y: -6}
+        - {x: -24, y: -15}
+        - {x: -11, y: -32}
+        - {x: 20, y: -32}
+        - {x: 20, y: 23}
+    - name: Archer w_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 24}
+        - {x: -12, y: 24}
+        - {x: -22, y: 19}
+        - {x: -22, y: -26}
+        - {x: -20, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 9}
+        - {x: 15, y: 14}
+    - name: Archer w_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: -9, y: 24}
+        - {x: -22, y: 18}
+        - {x: -22, y: -25}
+        - {x: -20, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 7}
+        - {x: 14, y: 13}
+    - name: Archer w_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 24}
+        - {x: -12, y: 24}
+        - {x: -22, y: 19}
+        - {x: -22, y: -26}
+        - {x: -20, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 9}
+        - {x: 15, y: 14}
+    - name: Archer w_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -26, y: 7}
+        - {x: -26, y: -22}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 10}
+        - {x: 11, y: 24}
+    - name: Archer w_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20}
+        - {x: -19, y: -29}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 24, y: -11}
+        - {x: 24, y: 15}
+        - {x: 15, y: 20}
+    - name: Archer w_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 9}
+        - {x: -21, y: -14}
+        - {x: -21, y: -22}
+        - {x: -12, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -19}
+        - {x: 19, y: 16}
+        - {x: 8, y: 20}
+    - name: Archer w_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 20}
+        - {x: -15, y: 20}
+        - {x: -22, y: 4}
+        - {x: -22, y: -29}
+        - {x: -13, y: -31}
+        - {x: 11, y: -31}
+        - {x: 19, y: -20}
+        - {x: 19, y: 17}
+    - name: Archer w_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -15, y: 20}
+        - {x: -17, y: 19}
+        - {x: -17, y: -25}
+        - {x: -15, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -19}
+        - {x: 17, y: 8}
+        - {x: 14, y: 17}
+    - name: Archer w_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -23}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 9}
+        - {x: 12, y: 20}
+    - name: Archer w_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -31}
+        - {x: 17, y: -25}
+        - {x: 17, y: 9}
+        - {x: 12, y: 20}
+    - name: Archer w_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -31}
+        - {x: 17, y: -25}
+        - {x: 17, y: 9}
+        - {x: 12, y: 20}
+    - name: Archer w_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: 7, y: 20}
+        - {x: -11, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -27}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 9}
+    - name: Archer w_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 17}
+        - {x: 13, y: 20}
+    - name: Archer w_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -13, y: 15}
+        - {x: -17, y: 5}
+        - {x: -17, y: -14}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 8}
+        - {x: 11, y: 20}
+    - name: Archer w_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -22}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 6}
+        - {x: 16, y: 9}
+    - name: Archer w_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -17, y: 16}
+        - {x: -17, y: -22}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: 8}
+        - {x: 13, y: 20}
+    - name: Archer w_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 9}
+        - {x: -17, y: -16}
+        - {x: -15, y: -22}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 9}
+        - {x: 12, y: 20}
+    - name: Archer w_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -21, y: 13}
+        - {x: -21, y: -20}
+        - {x: -8, y: -32}
+        - {x: -1, y: -32}
+        - {x: 9, y: -31}
+        - {x: 32, y: -8}
+        - {x: 32, y: 3}
+        - {x: 18, y: 20}
+    - name: Archer w_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -10, y: 20}
+        - {x: -14, y: 13}
+        - {x: -19, y: -5}
+        - {x: -19, y: -23}
+        - {x: -11, y: -32}
+        - {x: 2, y: -32}
+        - {x: 11, y: -29}
+        - {x: 24, y: -11}
+        - {x: 24, y: 3}
+        - {x: 22, y: 16}
+    - name: Archer w_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -12, y: 20}
+        - {x: -17, y: 3}
+        - {x: -17, y: -22}
+        - {x: -10, y: -32}
+        - {x: 19, y: -32}
+        - {x: 27, y: -15}
+        - {x: 27, y: 14}
+        - {x: 24, y: 17}
+    - name: Archer w_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -18, y: 1}
+        - {x: -18, y: -30}
+        - {x: -17, y: -32}
+        - {x: 25, y: -32}
+        - {x: 25, y: 3}
+        - {x: 24, y: 6}
+        - {x: 5, y: 18}
+    - name: Archer w_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -10, y: 24}
+        - {x: -18, y: 5}
+        - {x: -18, y: -31}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 29, y: -13}
+        - {x: 29, y: -1}
+        - {x: 23, y: 12}
+    - name: Archer w_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 26}
+        - {x: -5, y: 26}
+        - {x: -15, y: 14}
+        - {x: -15, y: -24}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 8, y: -31}
+        - {x: 26, y: -15}
+        - {x: 32, y: -2}
+        - {x: 32, y: 8}
+    - name: Archer w_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 28}
+        - {x: 3, y: 28}
+        - {x: -8, y: 22}
+        - {x: -16, y: 9}
+        - {x: -16, y: -22}
+        - {x: -15, y: -29}
+        - {x: -12, y: -32}
+        - {x: 4, y: -32}
+        - {x: 8, y: -31}
+        - {x: 13, y: -30}
+        - {x: 32, y: -3}
+        - {x: 32, y: 9}
+    - name: Archer w_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 27}
+        - {x: -1, y: 27}
+        - {x: -19, y: 10}
+        - {x: -19, y: -17}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 30, y: -7}
+        - {x: 30, y: 7}
+        - {x: 24, y: 13}
+    - name: Archer w_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 3}
+        - {x: 22, y: 10}
+        - {x: 7, y: 23}
+        - {x: 1, y: 23}
+        - {x: -14, y: 17}
+        - {x: -21, y: 2}
+        - {x: -21, y: -16}
+        - {x: -16, y: -30}
+        - {x: -9, y: -32}
+        - {x: 3, y: -32}
+        - {x: 10, y: -29}
+        - {x: 23, y: -15}
+        - {x: 27, y: 0}
+    - name: Archer w_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -18, y: 19}
+        - {x: -18, y: -32}
+        - {x: 9, y: -32}
+        - {x: 22, y: -29}
+        - {x: 22, y: 18}
+        - {x: 11, y: 24}
+    - name: Archer w_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -9, y: 23}
+        - {x: -17, y: 5}
+        - {x: -17, y: -15}
+        - {x: -14, y: -29}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 22, y: -18}
+        - {x: 22, y: 13}
+        - {x: 7, y: 24}
+    - name: Archer w_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -9, y: 23}
+        - {x: -18, y: 2}
+        - {x: -18, y: -18}
+        - {x: -14, y: -29}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 22, y: -18}
+        - {x: 22, y: 13}
+        - {x: 7, y: 24}
+    - name: Archer w_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -15, y: 16}
+        - {x: -17, y: -4}
+        - {x: -17, y: -19}
+        - {x: -16, y: -30}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 26, y: -20}
+        - {x: 26, y: 8}
+        - {x: 15, y: 24}
+    - name: Archer w_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -16, y: 10}
+        - {x: -16, y: -32}
+        - {x: 17, y: -32}
+        - {x: 21, y: -27}
+        - {x: 21, y: 2}
+        - {x: 11, y: 19}
+    - name: Archer w_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -9, y: 19}
+        - {x: -15, y: 17}
+        - {x: -15, y: -21}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 23, y: -20}
+        - {x: 23, y: 1}
+        - {x: 21, y: 9}
+    - name: Archer w_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 12}
+        - {x: -8, y: 12}
+        - {x: -15, y: 6}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -18}
+        - {x: 22, y: -2}
+        - {x: 11, y: 11}
+    - name: Archer w_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 7}
+        - {x: -9, y: 7}
+        - {x: -15, y: 1}
+        - {x: -15, y: -30}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -20}
+        - {x: 22, y: -9}
+        - {x: 18, y: -2}
+    - name: Archer w_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1}
+        - {x: -14, y: -5}
+        - {x: -14, y: -31}
+        - {x: 19, y: -31}
+        - {x: 25, y: -28}
+        - {x: 25, y: -7}
+        - {x: 19, y: 1}
+    - name: Archer w_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -17, y: 7}
+        - {x: -17, y: -32}
+        - {x: 24, y: -32}
+        - {x: 27, y: -23}
+        - {x: 27, y: -9}
+        - {x: 16, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

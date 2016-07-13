@@ -1,0 +1,3695 @@
+fileFormatVersion: 2
+guid: 85a4eebd596082c409030302f7b6a5a6
+timeCreated: 1468371320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blackelf_0
+    21300002: Blackelf_1
+    21300004: Blackelf_2
+    21300006: Blackelf_3
+    21300008: Blackelf_4
+    21300010: Blackelf_5
+    21300012: Blackelf_6
+    21300014: Blackelf_7
+    21300016: Blackelf_8
+    21300018: Blackelf_9
+    21300020: Blackelf_10
+    21300022: Blackelf_11
+    21300024: Blackelf_12
+    21300026: Blackelf_13
+    21300028: Blackelf_14
+    21300030: Blackelf_15
+    21300032: Blackelf_16
+    21300034: Blackelf_17
+    21300036: Blackelf_18
+    21300038: Blackelf_19
+    21300040: Blackelf_20
+    21300042: Blackelf_21
+    21300044: Blackelf_22
+    21300046: Blackelf_23
+    21300048: Blackelf_24
+    21300050: Blackelf_25
+    21300052: Blackelf_26
+    21300054: Blackelf_27
+    21300056: Blackelf_28
+    21300058: Blackelf_29
+    21300060: Blackelf_30
+    21300062: Blackelf_31
+    21300064: Blackelf_32
+    21300066: Blackelf_33
+    21300068: Blackelf_34
+    21300070: Blackelf_35
+    21300072: Blackelf_36
+    21300074: Blackelf_37
+    21300076: Blackelf_38
+    21300078: Blackelf_39
+    21300080: Blackelf_40
+    21300082: Blackelf_41
+    21300084: Blackelf_42
+    21300086: Blackelf_43
+    21300088: Blackelf_44
+    21300090: Blackelf_45
+    21300092: Blackelf_46
+    21300094: Blackelf_47
+    21300096: Blackelf_48
+    21300098: Blackelf_49
+    21300100: Blackelf_50
+    21300102: Blackelf_51
+    21300104: Blackelf_52
+    21300106: Blackelf_53
+    21300108: Blackelf_54
+    21300110: Blackelf_55
+    21300112: Blackelf_56
+    21300114: Blackelf_57
+    21300116: Blackelf_58
+    21300118: Blackelf_59
+    21300120: Blackelf_60
+    21300122: Blackelf_61
+    21300124: Blackelf_62
+    21300126: Blackelf_63
+    21300128: Blackelf_64
+    21300130: Blackelf_65
+    21300132: Blackelf_66
+    21300134: Blackelf_67
+    21300136: Blackelf_68
+    21300138: Blackelf_69
+    21300140: Blackelf_70
+    21300142: Blackelf_71
+    21300144: Blackelf_72
+    21300146: Blackelf_73
+    21300148: Blackelf_74
+    21300150: Blackelf_75
+    21300152: Blackelf_76
+    21300154: Blackelf_77
+    21300156: Blackelf_78
+    21300158: Blackelf_79
+    21300160: Blackelf_80
+    21300162: Blackelf_81
+    21300164: Blackelf_82
+    21300166: Blackelf_83
+    21300168: Blackelf_84
+    21300170: Blackelf_85
+    21300172: Blackelf_86
+    21300174: Blackelf_87
+    21300176: Blackelf_88
+    21300178: Blackelf_89
+    21300180: Blackelf_90
+    21300182: Blackelf_91
+    21300184: Blackelf_92
+    21300186: Blackelf_93
+    21300188: Blackelf_94
+    21300190: Blackelf_95
+    21300192: Blackelf_96
+    21300194: Blackelf_97
+    21300196: Blackelf_98
+    21300198: Blackelf_99
+    21300200: Blackelf_100
+    21300202: Blackelf_101
+    21300204: Blackelf_102
+    21300206: Blackelf_103
+    21300208: Blackelf_104
+    21300210: Blackelf_105
+    21300212: Blackelf_106
+    21300214: Blackelf_107
+    21300216: Blackelf_108
+    21300218: Blackelf_109
+    21300220: Blackelf_110
+    21300222: Blackelf_111
+    21300224: Blackelf_112
+    21300226: Blackelf_113
+    21300228: Blackelf_114
+    21300230: Blackelf_115
+    21300232: Blackelf_116
+    21300234: Blackelf_117
+    21300236: Blackelf_118
+    21300238: Blackelf_119
+    21300240: Blackelf_120
+    21300242: Blackelf_121
+    21300244: Blackelf_122
+    21300246: Blackelf_123
+    21300248: Blackelf_124
+    21300250: Blackelf_125
+    21300252: Blackelf_126
+    21300254: Blackelf_127
+    21300256: Blackelf_128
+    21300258: Blackelf_129
+    21300260: Blackelf_130
+    21300262: Blackelf_131
+    21300264: Blackelf_132
+    21300266: Blackelf_133
+    21300268: Blackelf_134
+    21300270: Blackelf_135
+    21300272: Blackelf_136
+    21300274: Blackelf_137
+    21300276: Blackelf_138
+    21300278: Blackelf_139
+    21300280: Blackelf_140
+    21300282: Blackelf_141
+    21300284: Blackelf_142
+    21300286: Blackelf_143
+    21300288: Blackelf_144
+    21300290: Blackelf_145
+    21300292: Blackelf_146
+    21300294: Blackelf_147
+    21300296: Blackelf_148
+    21300298: Blackelf_149
+    21300300: Blackelf_150
+    21300302: Blackelf_151
+    21300304: Blackelf_152
+    21300306: Blackelf_153
+    21300308: Blackelf_154
+    21300310: Blackelf_155
+    21300312: Blackelf_156
+    21300314: Blackelf_157
+    21300316: Blackelf_158
+    21300318: Blackelf_159
+    21300320: Blackelf_160
+    21300322: Blackelf_161
+    21300324: Blackelf_162
+    21300326: Blackelf_163
+    21300328: Blackelf_164
+    21300330: Blackelf_165
+    21300332: Blackelf_166
+    21300334: Blackelf_167
+    21300336: Blackelf_168
+    21300338: Blackelf_169
+    21300340: Blackelf_170
+    21300342: Blackelf_171
+    21300344: Blackelf_172
+    21300346: Blackelf_173
+    21300348: Blackelf_174
+    21300350: Blackelf_175
+    21300352: Blackelf_176
+    21300354: Blackelf_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blackelf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -28}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 16}
+        - {x: 10, y: 20}
+    - name: Blackelf_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -7, y: 20}
+        - {x: -14, y: 16}
+        - {x: -14, y: -26}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 13}
+        - {x: 13, y: 14}
+    - name: Blackelf_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -32}
+        - {x: 14, y: 10}
+        - {x: 12, y: 20}
+        - {x: -4, y: 20}
+        - {x: -14, y: 18}
+        - {x: -14, y: -32}
+    - name: Blackelf_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -17, y: 20}
+        - {x: -19, y: 11}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 0}
+        - {x: 13, y: 14}
+    - name: Blackelf_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -24, y: 14}
+        - {x: -24, y: -16}
+        - {x: -18, y: -32}
+        - {x: 11, y: -32}
+        - {x: 18, y: -28}
+        - {x: 24, y: -15}
+        - {x: 24, y: 14}
+        - {x: 11, y: 20}
+    - name: Blackelf_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -23, y: 14}
+        - {x: -24, y: 10}
+        - {x: -24, y: -4}
+        - {x: -13, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 19}
+        - {x: 22, y: 20}
+    - name: Blackelf_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -17, y: 20}
+        - {x: -19, y: 11}
+        - {x: -19, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 0}
+        - {x: 13, y: 14}
+    - name: Blackelf_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 13}
+        - {x: 8, y: 20}
+    - name: Blackelf_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -7, y: 20}
+        - {x: -12, y: 17}
+        - {x: -12, y: -30}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -25}
+        - {x: 15, y: -10}
+        - {x: 15, y: 12}
+    - name: Blackelf_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -21}
+        - {x: -11, y: -29}
+        - {x: -9, y: -31}
+        - {x: -5, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 14, y: 20}
+    - name: Blackelf_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -13, y: 13}
+        - {x: -14, y: 7}
+        - {x: -14, y: -20}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 20, y: -20}
+        - {x: 20, y: 5}
+        - {x: 11, y: 20}
+    - name: Blackelf_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -16, y: 8}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 20, y: -12}
+        - {x: 20, y: 6}
+        - {x: 5, y: 20}
+    - name: Blackelf_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -13, y: 13}
+        - {x: -14, y: 7}
+        - {x: -14, y: -20}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+    - name: Blackelf_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -16, y: 3}
+        - {x: -16, y: -22}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 7}
+        - {x: 11, y: 21}
+    - name: Blackelf_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 11, y: 21}
+    - name: Blackelf_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -18, y: 4}
+        - {x: -18, y: -23}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -21}
+        - {x: 18, y: 5}
+        - {x: 11, y: 21}
+    - name: Blackelf_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -24, y: 18}
+        - {x: -24, y: -23}
+        - {x: -21, y: -29}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 24, y: -13}
+        - {x: 24, y: 13}
+        - {x: 9, y: 21}
+    - name: Blackelf_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -1}
+        - {x: 24, y: 8}
+        - {x: 19, y: 19}
+        - {x: 11, y: 21}
+        - {x: -15, y: 21}
+        - {x: -24, y: 7}
+        - {x: -24, y: -7}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -30}
+        - {x: 15, y: -25}
+        - {x: 22, y: -7}
+    - name: Blackelf_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -18, y: 4}
+        - {x: -18, y: -23}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -21}
+        - {x: 18, y: 5}
+        - {x: 11, y: 21}
+    - name: Blackelf_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 0}
+        - {x: -15, y: -15}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -15, y: 11}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 16}
+        - {x: 9, y: 20}
+    - name: Blackelf_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 5}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 15}
+        - {x: 9, y: 20}
+    - name: Blackelf_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -11, y: 20}
+        - {x: -15, y: 11}
+        - {x: -15, y: -22}
+        - {x: -14, y: -25}
+        - {x: -10, y: -29}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 5}
+        - {x: 13, y: 13}
+    - name: Blackelf_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -20, y: 9}
+        - {x: -20, y: -12}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -30}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+    - name: Blackelf_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -20, y: 10}
+        - {x: -20, y: -7}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -31}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+        - {x: 7, y: 20}
+    - name: Blackelf_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -11, y: 20}
+        - {x: -15, y: 11}
+        - {x: -15, y: -22}
+        - {x: -14, y: -25}
+        - {x: -10, y: -29}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 5}
+        - {x: 13, y: 13}
+    - name: Blackelf_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -11, y: 19}
+        - {x: -16, y: 7}
+        - {x: -16, y: -28}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -26}
+        - {x: 16, y: 2}
+        - {x: 13, y: 13}
+    - name: Blackelf_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -17, y: -1}
+        - {x: -17, y: -26}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 6}
+        - {x: 10, y: 19}
+    - name: Blackelf_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -13, y: 13}
+        - {x: -13, y: -30}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 14}
+        - {x: 10, y: 20}
+    - name: Blackelf_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -7, y: 19}
+        - {x: -12, y: 12}
+        - {x: -12, y: -31}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 17}
+        - {x: 13, y: 20}
+    - name: Blackelf_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -29}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 15}
+        - {x: 12, y: 19}
+    - name: Blackelf_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 16}
+        - {x: 8, y: 19}
+    - name: Blackelf_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -29}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -21}
+        - {x: 15, y: 15}
+        - {x: 12, y: 19}
+    - name: Blackelf_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -4, y: 19}
+        - {x: -12, y: 17}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -13}
+        - {x: 14, y: 15}
+    - name: Blackelf_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 13}
+        - {x: 8, y: 20}
+    - name: Blackelf_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -15, y: 5}
+        - {x: -15, y: -28}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -12, y: 20}
+        - {x: -15, y: 10}
+        - {x: -15, y: -27}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -30}
+        - {x: 16, y: -26}
+        - {x: 16, y: 9}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 20}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -19, y: 6}
+        - {x: -19, y: -23}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 20}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -10, y: 20}
+        - {x: -15, y: 12}
+        - {x: -22, y: -5}
+        - {x: -22, y: -20}
+        - {x: -15, y: -31}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -20}
+        - {x: 13, y: 9}
+        - {x: 12, y: 10}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -19, y: 0}
+        - {x: -19, y: -22}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 14}
+        - {x: 11, y: 20}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: 8, y: 20}
+        - {x: -9, y: 20}
+        - {x: -12, y: 15}
+        - {x: -12, y: -30}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -25}
+        - {x: 17, y: -13}
+        - {x: 17, y: -3}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Blackelf_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+    - name: Blackelf_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -15, y: 17}
+        - {x: -15, y: -28}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 8, y: 21}
+    - name: Blackelf_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -14, y: 13}
+        - {x: -14, y: -31}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 12, y: 21}
+    - name: Blackelf_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 21}
+    - name: Blackelf_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -12, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -30}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 13}
+    - name: Blackelf_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -28}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 13, y: 20}
+        - {x: -10, y: 20}
+        - {x: -14, y: 9}
+    - name: Blackelf_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 15}
+        - {x: -14, y: -28}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 20}
+    - name: Blackelf_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 21}
+    - name: Blackelf_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 0}
+        - {x: -15, y: -15}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 4}
+        - {x: -15, y: -11}
+        - {x: -13, y: -31}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 7}
+        - {x: 13, y: 12}
+    - name: Blackelf_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -26}
+        - {x: -13, y: -32}
+        - {x: 5, y: -32}
+        - {x: 11, y: -30}
+        - {x: 15, y: -25}
+        - {x: 15, y: 4}
+        - {x: 10, y: 20}
+    - name: Blackelf_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -15, y: 17}
+        - {x: -17, y: -4}
+        - {x: -17, y: -17}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 16}
+        - {x: 9, y: 20}
+    - name: Blackelf_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 6}
+        - {x: 12, y: 20}
+        - {x: -8, y: 20}
+        - {x: -13, y: 8}
+        - {x: -13, y: -26}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -15}
+        - {x: 19, y: -2}
+    - name: Blackelf_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -13, y: 11}
+        - {x: -13, y: -23}
+        - {x: -9, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 20}
+    - name: Blackelf_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -13, y: 17}
+        - {x: -13, y: -32}
+        - {x: 19, y: -32}
+        - {x: 19, y: 17}
+        - {x: 11, y: 20}
+    - name: Blackelf_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -14, y: 20}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -30}
+        - {x: 12, y: -18}
+        - {x: 12, y: 15}
+    - name: Blackelf_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -28}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 16}
+        - {x: 10, y: 20}
+    - name: Blackelf_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -16, y: 4}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 7, y: 20}
+    - name: Blackelf_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -30}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 10, y: 20}
+    - name: Blackelf_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -4, y: 19}
+        - {x: -8, y: 18}
+        - {x: -13, y: 12}
+        - {x: -14, y: -9}
+        - {x: -14, y: -27}
+        - {x: -10, y: -30}
+        - {x: -4, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 10}
+        - {x: 13, y: 13}
+    - name: Blackelf_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 15}
+    - name: Blackelf_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -26}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 20}
+    - name: Blackelf_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 5}
+        - {x: -15, y: -18}
+        - {x: -14, y: -27}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 17}
+        - {x: 6, y: 20}
+    - name: Blackelf_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -31}
+        - {x: -11, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 15}
+        - {x: 10, y: 19}
+    - name: Blackelf_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -16, y: 9}
+        - {x: -16, y: -26}
+        - {x: -13, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 19}
+        - {x: 12, y: 20}
+    - name: Blackelf_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 13}
+        - {x: 8, y: 20}
+    - name: Blackelf_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -13, y: 11}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -24}
+        - {x: 15, y: 17}
+        - {x: 7, y: 19}
+    - name: Blackelf_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -12, y: 16}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -22}
+        - {x: 15, y: 17}
+        - {x: 7, y: 19}
+    - name: Blackelf_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -9, y: 20}
+        - {x: -12, y: 15}
+        - {x: -12, y: -29}
+        - {x: -7, y: -32}
+        - {x: 8, y: -32}
+        - {x: 15, y: -19}
+        - {x: 15, y: 1}
+        - {x: 14, y: 10}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 6, y: 29}
+        - {x: 8, y: 31}
+        - {x: 8, y: 32}
+    - name: Blackelf_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -13, y: 15}
+        - {x: -13, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -20}
+        - {x: 16, y: -5}
+        - {x: 14, y: 10}
+    - name: Blackelf_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -14, y: 9}
+        - {x: -14, y: -28}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: -1}
+        - {x: 10, y: 19}
+    - name: Blackelf_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -12, y: 17}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 4}
+        - {x: 10, y: 19}
+    - name: Blackelf_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -12, y: 17}
+        - {x: -12, y: -26}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -23}
+        - {x: 15, y: 12}
+        - {x: 10, y: 20}
+      - - {x: -8, y: 32}
+        - {x: -7, y: 29}
+        - {x: -1, y: 29}
+        - {x: 1, y: 31}
+        - {x: 1, y: 32}
+    - name: Blackelf_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 16}
+        - {x: 14, y: 20}
+    - name: Blackelf_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+    - name: Blackelf_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 21}
+        - {x: -12, y: 21}
+        - {x: -16, y: 5}
+        - {x: -16, y: -24}
+        - {x: -9, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -20}
+        - {x: 16, y: -6}
+        - {x: 13, y: 16}
+    - name: Blackelf_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -15, y: 12}
+        - {x: -15, y: -30}
+        - {x: -12, y: -31}
+        - {x: -10, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 12}
+        - {x: 12, y: 21}
+    - name: Blackelf_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -28}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 20}
+    - name: Blackelf_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 8}
+        - {x: 11, y: 21}
+    - name: Blackelf_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -16, y: 17}
+        - {x: -16, y: -26}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 9}
+        - {x: 11, y: 21}
+    - name: Blackelf_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: 8, y: 21}
+        - {x: -6, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -19}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -25}
+        - {x: 15, y: -18}
+        - {x: 15, y: -5}
+    - name: Blackelf_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -12, y: 20}
+        - {x: -15, y: 8}
+        - {x: -15, y: -25}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: -5}
+        - {x: 14, y: 15}
+    - name: Blackelf_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -16, y: 17}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 20}
+        - {x: 12, y: 21}
+    - name: Blackelf_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 0}
+        - {x: -15, y: -15}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -15, y: 10}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+    - name: Blackelf_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -15, y: 12}
+        - {x: -15, y: -19}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 9, y: 19}
+    - name: Blackelf_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 8}
+        - {x: -15, y: -23}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: 13}
+        - {x: 7, y: 20}
+    - name: Blackelf_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -17, y: 17}
+        - {x: -17, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 15}
+        - {x: 13, y: 19}
+    - name: Blackelf_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -14, y: 9}
+        - {x: -16, y: 4}
+        - {x: -16, y: -23}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -25}
+        - {x: 12, y: 13}
+        - {x: 8, y: 19}
+    - name: Blackelf_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 8}
+        - {x: -15, y: -24}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -26}
+        - {x: 12, y: 18}
+        - {x: 7, y: 20}
+    - name: Blackelf_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -24}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 20}
+        - {x: -10, y: 20}
+        - {x: -15, y: 12}
+    - name: Blackelf_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -28}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 16}
+        - {x: 10, y: 20}
+    - name: Blackelf_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -15, y: 19}
+        - {x: -15, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -28}
+        - {x: 13, y: 15}
+        - {x: 8, y: 20}
+    - name: Blackelf_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -10, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+        - {x: 5, y: 20}
+    - name: Blackelf_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 15}
+        - {x: 11, y: 21}
+    - name: Blackelf_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -14, y: 3}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -29}
+        - {x: 23, y: -27}
+        - {x: 23, y: 8}
+        - {x: 12, y: 21}
+    - name: Blackelf_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -14, y: 3}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -29}
+        - {x: 26, y: -15}
+        - {x: 26, y: 5}
+        - {x: 9, y: 21}
+    - name: Blackelf_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 13}
+        - {x: 8, y: 20}
+    - name: Blackelf_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -16, y: 4}
+        - {x: -16, y: -28}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -29}
+        - {x: 14, y: 10}
+        - {x: 12, y: 18}
+    - name: Blackelf_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 14}
+        - {x: -13, y: -30}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 12}
+        - {x: 7, y: 19}
+    - name: Blackelf_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -10, y: 20}
+        - {x: -15, y: 12}
+        - {x: -13, y: 1}
+        - {x: -22, y: -11}
+        - {x: -22, y: -14}
+        - {x: -19, y: -19}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 11, y: -30}
+        - {x: 14, y: -23}
+        - {x: 14, y: 6}
+    - name: Blackelf_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -23, y: 3}
+        - {x: -23, y: -18}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 12}
+        - {x: 11, y: 20}
+    - name: Blackelf_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: 4, y: 20}
+        - {x: -9, y: 20}
+        - {x: -22, y: 6}
+        - {x: -22, y: -6}
+        - {x: -20, y: -13}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -30}
+        - {x: 14, y: -17}
+    - name: Blackelf_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+    - name: Blackelf_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -8, y: 18}
+        - {x: -13, y: 11}
+        - {x: -14, y: 11}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 8, y: 19}
+    - name: Blackelf_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -7, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -27}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 10}
+        - {x: 12, y: 14}
+    - name: Blackelf_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -13, y: 16}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 15}
+        - {x: 11, y: 21}
+    - name: Blackelf_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -13, y: 17}
+        - {x: -13, y: -27}
+        - {x: -11, y: -32}
+        - {x: 17, y: -32}
+        - {x: 22, y: -24}
+        - {x: 22, y: 4}
+        - {x: 12, y: 21}
+    - name: Blackelf_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -14, y: 2}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 24, y: -20}
+        - {x: 24, y: -7}
+        - {x: 13, y: 21}
+    - name: Blackelf_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -15, y: 0}
+        - {x: -15, y: -15}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 14}
+        - {x: 8, y: 20}
+    - name: Blackelf_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -14, y: 12}
+        - {x: -14, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 3}
+        - {x: 12, y: 18}
+    - name: Blackelf_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -13, y: 7}
+        - {x: -13, y: -23}
+        - {x: -11, y: -30}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -19}
+        - {x: 14, y: 13}
+        - {x: 9, y: 19}
+    - name: Blackelf_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -16}
+        - {x: 22, y: -3}
+        - {x: 12, y: 20}
+    - name: Blackelf_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -14, y: 13}
+        - {x: -14, y: -31}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 23, y: -16}
+        - {x: 23, y: 8}
+        - {x: 12, y: 20}
+    - name: Blackelf_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 9}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 22, y: -17}
+        - {x: 22, y: 4}
+        - {x: 13, y: 20}
+    - name: Blackelf_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 7}
+        - {x: -16, y: -28}
+        - {x: -14, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 16}
+        - {x: 10, y: 20}
+    - name: Blackelf_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 20}
+        - {x: -4, y: 20}
+        - {x: -9, y: 19}
+        - {x: -17, y: 14}
+        - {x: -17, y: -29}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: -4}
+        - {x: 12, y: 14}
+    - name: Blackelf_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -13, y: 16}
+        - {x: -13, y: -28}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 15}
+        - {x: 9, y: 20}
+    - name: Blackelf_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -28}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -20}
+        - {x: 17, y: -3}
+        - {x: 11, y: 20}
+    - name: Blackelf_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -15, y: -29}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 11}
+        - {x: 8, y: 20}
+    - name: Blackelf_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -30}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 10}
+        - {x: 13, y: 15}
+    - name: Blackelf_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -26}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -22}
+        - {x: 17, y: 6}
+        - {x: 8, y: 20}
+    - name: Blackelf_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -31}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -20}
+        - {x: 18, y: 2}
+        - {x: 8, y: 20}
+    - name: Blackelf_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -15, y: 14}
+        - {x: -15, y: -28}
+        - {x: -8, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -24}
+        - {x: 17, y: -1}
+        - {x: 10, y: 20}
+    - name: Blackelf_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -28}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -27}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -14, y: 17}
+        - {x: -14, y: -28}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 13}
+        - {x: 8, y: 20}
+    - name: Blackelf_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -31}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 13}
+        - {x: 12, y: 20}
+        - {x: -11, y: 20}
+        - {x: -15, y: 10}
+    - name: Blackelf_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 20}
+      - - {x: -2, y: 32}
+        - {x: -1, y: 29}
+        - {x: 6, y: 29}
+        - {x: 8, y: 31}
+        - {x: 8, y: 32}
+    - name: Blackelf_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 18}
+        - {x: -11, y: 18}
+        - {x: -22, y: -10}
+        - {x: -22, y: -18}
+        - {x: -12, y: -30}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -19}
+        - {x: 17, y: 6}
+        - {x: 16, y: 16}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -22, y: 8}
+        - {x: -22, y: -18}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 7}
+        - {x: 7, y: 20}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -23, y: 11}
+        - {x: -23, y: -27}
+        - {x: -21, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 12}
+        - {x: 8, y: 20}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -13, y: 12}
+        - {x: -20, y: 8}
+        - {x: -23, y: 2}
+        - {x: -23, y: -10}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 7}
+        - {x: 13, y: 13}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -22, y: 12}
+        - {x: -22, y: -29}
+        - {x: -21, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 7}
+        - {x: 8, y: 20}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -22, y: 6}
+        - {x: -22, y: -17}
+        - {x: -12, y: -30}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 20, y: -19}
+        - {x: 20, y: 6}
+        - {x: 11, y: 20}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -22, y: 8}
+        - {x: -22, y: -18}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 7}
+        - {x: 7, y: 20}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -12, y: 20}
+        - {x: -22, y: -2}
+        - {x: -22, y: -13}
+        - {x: -11, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -24}
+        - {x: 16, y: -23}
+        - {x: 16, y: 4}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -12, y: 20}
+        - {x: -22, y: -1}
+        - {x: -22, y: -13}
+        - {x: -12, y: -30}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 13}
+        - {x: 15, y: 18}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 10}
+        - {x: 8, y: 20}
+        - {x: -11, y: 20}
+        - {x: -22, y: 14}
+        - {x: -22, y: -22}
+        - {x: -19, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -24}
+        - {x: 16, y: -21}
+        - {x: 16, y: 2}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Blackelf_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 15}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+    - name: Blackelf_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -16, y: 18}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+        - {x: 9, y: 21}
+    - name: Blackelf_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21}
+        - {x: -13, y: 21}
+        - {x: -16, y: 10}
+        - {x: -16, y: -23}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 14, y: -24}
+        - {x: 14, y: -15}
+        - {x: 12, y: 12}
+    - name: Blackelf_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -16, y: 20}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 19}
+        - {x: 11, y: 21}
+    - name: Blackelf_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -15, y: 17}
+        - {x: -15, y: -25}
+        - {x: -9, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 21}
+    - name: Blackelf_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -9, y: 20}
+        - {x: -15, y: 16}
+        - {x: -15, y: -28}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 18}
+        - {x: 5, y: 21}
+    - name: Blackelf_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -15, y: -30}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 21}
+    - name: Blackelf_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -21}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 12}
+        - {x: 10, y: 21}
+        - {x: -12, y: 21}
+        - {x: -16, y: 13}
+    - name: Blackelf_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 21}
+        - {x: -16, y: 21}
+    - name: Blackelf_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 21}
+        - {x: -12, y: 21}
+        - {x: -15, y: 11}
+        - {x: -15, y: -28}
+        - {x: -11, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: 15}
+    - name: Blackelf_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -25}
+        - {x: -8, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: 14}
+        - {x: 10, y: 21}
+    - name: Blackelf_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 6}
+        - {x: -15, y: -3}
+        - {x: -15, y: -24}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 21}
+        - {x: -11, y: 21}
+        - {x: -14, y: 13}
+    - name: Blackelf_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -16, y: 16}
+        - {x: -16, y: -25}
+        - {x: -8, y: -32}
+        - {x: 7, y: -32}
+        - {x: 12, y: -25}
+        - {x: 12, y: 14}
+        - {x: 10, y: 21}
+    - name: Blackelf_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -15, y: 10}
+        - {x: -16, y: 0}
+        - {x: -16, y: -15}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 11, y: -30}
+        - {x: 11, y: 14}
+        - {x: 7, y: 20}
+    - name: Blackelf_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -15, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -17}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 5}
+        - {x: 10, y: 20}
+    - name: Blackelf_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -17, y: 9}
+        - {x: -17, y: -19}
+        - {x: -14, y: -32}
+        - {x: 11, y: -32}
+        - {x: 19, y: -27}
+        - {x: 19, y: 18}
+        - {x: 9, y: 20}
+    - name: Blackelf_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -11, y: 18}
+        - {x: -18, y: 2}
+        - {x: -18, y: -22}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -24}
+        - {x: 21, y: 6}
+        - {x: 17, y: 14}
+    - name: Blackelf_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -10}
+        - {x: 21, y: 7}
+        - {x: 14, y: 20}
+    - name: Blackelf_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 22, y: -9}
+        - {x: 22, y: 9}
+        - {x: 12, y: 20}
+    - name: Blackelf_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -16, y: 15}
+        - {x: -16, y: -26}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 22, y: -7}
+        - {x: 22, y: 12}
+        - {x: 11, y: 20}
+    - name: Blackelf_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -19, y: 6}
+        - {x: -19, y: -13}
+        - {x: -13, y: -30}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -7}
+        - {x: 21, y: 8}
+        - {x: 10, y: 20}
+    - name: Blackelf_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -21, y: 10}
+        - {x: -21, y: -20}
+        - {x: -16, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -6}
+        - {x: 21, y: 5}
+        - {x: 11, y: 20}
+    - name: Blackelf_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 10}
+        - {x: -18, y: 3}
+        - {x: -18, y: -16}
+        - {x: -15, y: -30}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -13}
+        - {x: 21, y: 10}
+        - {x: 6, y: 20}
+    - name: Blackelf_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -14, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -26}
+        - {x: -12, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -30}
+        - {x: 21, y: -12}
+        - {x: 21, y: 10}
+    - name: Blackelf_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -18, y: 14}
+        - {x: -18, y: -16}
+        - {x: -15, y: -30}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -19}
+        - {x: 21, y: 10}
+        - {x: 17, y: 20}
+    - name: Blackelf_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -17, y: 13}
+        - {x: -17, y: -26}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 21, y: -12}
+        - {x: 21, y: 10}
+        - {x: 11, y: 20}
+    - name: Blackelf_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 20}
+        - {x: -5, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 1}
+        - {x: 13, y: 14}
+    - name: Blackelf_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 5, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 7}
+        - {x: -14, y: -24}
+        - {x: -11, y: -29}
+        - {x: -8, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 2}
+    - name: Blackelf_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -14, y: 3}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 13}
+    - name: Blackelf_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 4}
+        - {x: 5, y: 9}
+        - {x: -8, y: 9}
+        - {x: -14, y: -4}
+        - {x: -14, y: -29}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: -21}
+    - name: Blackelf_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 2}
+        - {x: -14, y: -6}
+        - {x: -14, y: -31}
+        - {x: 19, y: -31}
+        - {x: 19, y: -7}
+        - {x: 11, y: 2}
+    - name: Blackelf_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -32}
+        - {x: 21, y: -32}
+        - {x: 21, y: -2}
+        - {x: 20, y: 4}
+        - {x: 14, y: 9}
+        - {x: -10, y: 9}
+        - {x: -17, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
